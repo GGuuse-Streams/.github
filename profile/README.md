@@ -1,1 +1,1 @@
-Cool twitch bot will appear here
+Cool twitch chatbot will appear here
