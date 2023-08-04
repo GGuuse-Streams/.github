@@ -1,1 +1,1 @@
-Cool twitch chatbot will appear here
+Colorful description will appear here one day
